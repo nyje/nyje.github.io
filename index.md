@@ -4,7 +4,7 @@ Boing...
 ## Boing... ##
 ### Boing... ###
 
-![](https://github.com/nyje/nyje.github.io/blob/master/Nigel2019.png)
+![](https://nyje.github.io/Nigel2019.png)
 
 TESTING
 
